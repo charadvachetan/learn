@@ -1,7 +1,3 @@
-spring:
-  cloud:
-    config:
-      uri: http://localhost:8001
 words: I,You,He,She,It
 server:
   port: ${PORT:${SERVER_PORT:0}}
