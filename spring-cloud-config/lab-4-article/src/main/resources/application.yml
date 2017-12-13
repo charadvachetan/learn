@@ -1,7 +1,7 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8010/eureka
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8001
 words: a,the
 server:
   port: ${PORT:${SERVER_PORT:0}}
