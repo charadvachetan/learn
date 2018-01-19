@@ -74,35 +74,7 @@
             <path>
               <item name="lab-5-word-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab-5-word-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab-5-word-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-5-word-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab-5-word-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-5-word-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab-5-word-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-5-word-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lab5wordserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab-5-word-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-5-word-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />

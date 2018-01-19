@@ -2,6 +2,7 @@ package com.chetan.lab5wordserver;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
@@ -10,6 +11,7 @@ public class WordController
     @Value("${words}")
     private String words;
 
+    @GetMapping("/")
     public @ResponseBody String getWord()
     {
         String[] wordArray = words.split(",");
