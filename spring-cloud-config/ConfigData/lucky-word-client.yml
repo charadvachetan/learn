@@ -1,1 +1,3 @@
-lucky-word: aavu kai na hoy
+wordConfig:
+  luckyWord: "Irish"
+  preamble: "The lucky word is: "
